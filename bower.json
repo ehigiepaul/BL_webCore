@@ -1,0 +1,39 @@
+{
+  "name": "bracketlogic",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web",
+    "bracketlogic"
+  ],
+  "homepage": "http://bracketlogic.com",
+  "license": "MIT",
+  "moduleType": "globals",
+  "main": [
+    "blocks.css",
+    "plugins.css",
+    "style-library-1.css",
+    "bskit-scripts.js",
+    "plugins.js"
+  ],
+  "ignore": [
+    "/.*",
+    "_config.yml",
+    "CNAME",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "docs",
+    "js/tests",
+    "test-infra"
+  ],
+  "dependencies": {
+
+  },
+  "private": true
+}

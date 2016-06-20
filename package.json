@@ -1,0 +1,46 @@
+{
+  "name": "bracketlogic",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "version": "0.0.1",
+  "keywords": [
+    "css",
+    "less",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "http://bracketlogic.com",
+  "author": "Paul Ehigie",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "style": [ "blocks.css",
+    "plugins.css",
+    "style-library-1.css"],
+
+  "main": "./dist/js/npm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ehigiepaul/BL_webCore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ehigiepaul/BL_webCore/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+
+  },
+  "engines": {
+    "node": ">=0.10.1"
+  },
+  "files": [
+
+    "*.css","*.js"
+  ],
+  "jspm": {
+    "main": "./"
+    }
+  }
+}
