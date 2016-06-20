@@ -23,10 +23,10 @@
   "main": "./dist/js/npm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ehigiepaul/BL_webCore.git"
+    "url": "https://github.com/ehigiepaul/webCore.git"
   },
   "bugs": {
-    "url": "https://github.com/ehigiepaul/BL_webCore/issues"
+    "url": "https://github.com/ehigiepaul/webCore/issues"
   },
   "license": "MIT",
   "devDependencies": {
