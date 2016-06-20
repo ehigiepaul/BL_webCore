@@ -1,5 +1,5 @@
 {
-  "name": "bracketlogic",
+  "name": "webCore",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "keywords": [
     "css",
@@ -30,9 +30,16 @@
     "CONTRIBUTING.md",
     "docs",
     "js/tests",
-    "test-infra"
+    "test-infra",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
   ],
-  "dependencies": {
-
-  }
+  "dependencies": {},
+  "authors": [
+    "ehigiepaul@yahoo.com"
+  ]
 }

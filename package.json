@@ -1,7 +1,7 @@
 {
   "name": "bracketlogic",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "keywords": [
     "css",
     "less",
@@ -41,6 +41,7 @@
   ],
   "jspm": {
     "main": "./"
+
     }
   }
 }
